@@ -1,0 +1,25 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+	double suma = 0, liczba;
+	unsigned int n;
+
+	cout << "Podaj ilosc liczb: ";
+	cin >> n;
+	cout << endl;
+
+	if (n > 0)
+	{
+		int i = 0;
+			while (i < n)
+			{
+				cout << "Podaj " << i++ +1 << " liczbe: ";
+					cin >> liczba;
+				suma += liczba;
+			}
+		cout << "Srednia " << n << " liczb wynosi: " << suma / n << endl;
+	}
+	return 0;
+}

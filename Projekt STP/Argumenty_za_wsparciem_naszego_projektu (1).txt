@@ -1,0 +1,12 @@
+Przeznaczenie środków na nasz projekt.
+Argumenty za wsparciem naszego projektu :
+Mózgiem naszego projektu jest Arduino.
+Arduino to platforma programistyczna dla systemów wbudowanych oparta na prostym projekcie Open Hardware  , 
+przeznaczonym dla mikrokontrolerów montowanych w pojedynczym obwodzie drukowanym (Płytka drukowana),
+z wbudowaną obsługą układów wejścia/wyjścia oraz standaryzowanym językiem programowania.
+Arduino ma bardzo dużo zalet np . żywotność , wielokrotność użytku  czy też sam fakt że umiejętność płynnego obsługiwania się z tym urządzeniem jest jednym z najbardziej pożądanych umiejętności w świecie robotyki.
+W momencie gdy szkoła przeznaczy środki na nasz projekt , jednocześnie umożliwi nam jaki innym uczniom Technikum Kreatywnego możliwość edukowania się w bardzo kreatywnym oraz  intrygującym środowisku .
+Warto również wspomnieć o fakcie iż , projekty arduino można edytować , zmieniać czy też usuwać w przeciągu chwili , jest to bardzo duża zaleta dla szkoły ponieważ każdy uczeń z osobna mógłby kreować swój własny projekt na jednym urządzeniu.
+Jesteśmy bardzo zdeterminowną , pracowitą oraz bystrą grupą osób i byśmy byli wdzięczni gdy szkoła wyraziła by zgodę na przeznaczenie środków potrzebnych na zakup arduino oraz elementów niezbędnych do wykonania projektu.
+Również zachęcamy szkołe do zakupu większej ilośći Arduino oraz elemetów wykorzystywanych do wszelkich projektów dotyczących robotyki , umożliwi to np. możliwość tworzenia różnych projektów przez inne osoby w tym samym czasie lub szkoła była by w stanie stworzyć kółko Arduino , 
+i szkolić swoich uczniów w bardzo ciekawym środkowisku . 
